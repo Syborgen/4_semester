@@ -1,0 +1,9 @@
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\bin\Debug\VVP_lab_4.exe.config
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\bin\Debug\VVP_lab_4.exe
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\bin\Debug\VVP_lab_4.pdb
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\obj\Debug\VVP_lab_4.csprojAssemblyReference.cache
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\obj\Debug\VVP_lab_4.Form1.resources
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\obj\Debug\VVP_lab_4.Properties.Resources.resources
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\obj\Debug\VVP_lab_4.csproj.GenerateResource.cache
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\obj\Debug\VVP_lab_4.exe
+C:\Users\Арсений\source\repos\VVP_lab_4\VVP_lab_4\obj\Debug\VVP_lab_4.pdb

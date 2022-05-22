@@ -1,0 +1,12 @@
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\bin\Debug\VVP_lab_2.exe.config
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\bin\Debug\VVP_lab_2.exe
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\bin\Debug\VVP_lab_2.pdb
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\obj\Debug\VVP_lab_2.csprojAssemblyReference.cache
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\obj\Debug\VVP_lab_2.Form1.resources
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\obj\Debug\VVP_lab_2.Properties.Resources.resources
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\obj\Debug\VVP_lab_2.csproj.GenerateResource.cache
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\obj\Debug\VVP_lab_2.exe
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\obj\Debug\VVP_lab_2.pdb
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\bin\Debug\VVP_lab_2dll.dll
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\bin\Debug\VVP_lab_2dll.pdb
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2\obj\Debug\VVP_lab_2.csproj.CopyComplete

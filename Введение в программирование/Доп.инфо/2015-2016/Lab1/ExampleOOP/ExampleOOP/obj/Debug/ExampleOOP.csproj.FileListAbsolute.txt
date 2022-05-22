@@ -1,0 +1,15 @@
+C:\Documents and Settings\user\Мои документы\Visual Studio 2005\Projects\ExampleOOP\ExampleOOP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Мои документы\Visual Studio 2005\Projects\ExampleOOP\ExampleOOP\bin\Debug\ExampleOOP.exe
+C:\Documents and Settings\user\Мои документы\Visual Studio 2005\Projects\ExampleOOP\ExampleOOP\bin\Debug\ExampleOOP.pdb
+C:\Documents and Settings\user\Мои документы\Visual Studio 2005\Projects\ExampleOOP\ExampleOOP\obj\Debug\ExampleOOP.exe
+C:\Documents and Settings\user\Мои документы\Visual Studio 2005\Projects\ExampleOOP\ExampleOOP\obj\Debug\ExampleOOP.pdb
+C:\Users\kurku\Downloads\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\bin\Debug\ExampleOOP.exe
+C:\Users\kurku\Downloads\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\bin\Debug\ExampleOOP.pdb
+C:\Users\kurku\Downloads\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kurku\Downloads\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\obj\Debug\ExampleOOP.exe
+C:\Users\kurku\Downloads\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\obj\Debug\ExampleOOP.pdb
+G:\ДонНТУ\4 семестр\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\bin\Debug\ExampleOOP.exe
+G:\ДонНТУ\4 семестр\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\bin\Debug\ExampleOOP.pdb
+G:\ДонНТУ\4 семестр\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\obj\Debug\ExampleOOP.csprojAssemblyReference.cache
+G:\ДонНТУ\4 семестр\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\obj\Debug\ExampleOOP.exe
+G:\ДонНТУ\4 семестр\Введение в программирование\Доп.инфо\2015-2016\Lab1\ExampleOOP\ExampleOOP\obj\Debug\ExampleOOP.pdb

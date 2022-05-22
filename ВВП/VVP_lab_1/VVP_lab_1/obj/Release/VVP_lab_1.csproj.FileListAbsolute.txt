@@ -1,0 +1,6 @@
+C:\Users\Арсений\source\repos\VVP_lab_1\VVP_lab_1\bin\Release\VVP_lab_1.exe.config
+C:\Users\Арсений\source\repos\VVP_lab_1\VVP_lab_1\bin\Release\VVP_lab_1.exe
+C:\Users\Арсений\source\repos\VVP_lab_1\VVP_lab_1\bin\Release\VVP_lab_1.pdb
+C:\Users\Арсений\source\repos\VVP_lab_1\VVP_lab_1\obj\Release\VVP_lab_1.csprojAssemblyReference.cache
+C:\Users\Арсений\source\repos\VVP_lab_1\VVP_lab_1\obj\Release\VVP_lab_1.exe
+C:\Users\Арсений\source\repos\VVP_lab_1\VVP_lab_1\obj\Release\VVP_lab_1.pdb

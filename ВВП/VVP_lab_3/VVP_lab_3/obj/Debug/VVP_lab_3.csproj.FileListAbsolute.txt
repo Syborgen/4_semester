@@ -1,0 +1,21 @@
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\bin\Debug\VVP_lab_3.exe.config
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\bin\Debug\VVP_lab_3.exe
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\bin\Debug\VVP_lab_3.pdb
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.csprojAssemblyReference.cache
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.Form1.resources
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.Properties.Resources.resources
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.csproj.GenerateResource.cache
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.exe
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.pdb
+C:\Users\Арсений\source\repos\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.csproj.CopyComplete
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\bin\Debug\VVP_lab_3.exe.config
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\bin\Debug\VVP_lab_3.exe
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\bin\Debug\VVP_lab_3.pdb
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.csprojAssemblyReference.cache
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.Form1.resources
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.Form2.resources
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.Properties.Resources.resources
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.csproj.GenerateResource.cache
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.csproj.CopyComplete
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.exe
+G:\ДонНТУ\4 семестр\ВВП\VVP_lab_3\VVP_lab_3\obj\Debug\VVP_lab_3.pdb

@@ -1,0 +1,5 @@
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2dll\bin\Debug\VVP_lab_2dll.dll
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2dll\bin\Debug\VVP_lab_2dll.pdb
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2dll\obj\Debug\MyLib.csprojAssemblyReference.cache
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2dll\obj\Debug\VVP_lab_2dll.dll
+C:\Users\Арсений\source\repos\VVP_lab_2\VVP_lab_2dll\obj\Debug\VVP_lab_2dll.pdb
